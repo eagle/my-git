@@ -21,6 +21,8 @@ class Test_Controller extends Controller {
 
 			echo 'title';
 
+			echo 'content bajie';
+
 	}
 
 	public function get()
