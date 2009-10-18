@@ -19,7 +19,7 @@ class Test_Controller extends Controller {
 
 			echo 'clone test';
 
-			echo 'title master'
+			echo 'title master bob'
 	}
 
 	public function get()
