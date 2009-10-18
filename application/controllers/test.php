@@ -17,6 +17,7 @@ class Test_Controller extends Controller {
 			$this->session->set('session_test','test');
 			echo 'session set test';
 
+			echo 'diff --cached';
 	}
 
 	public function get()
