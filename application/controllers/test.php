@@ -19,6 +19,8 @@ class Test_Controller extends Controller {
 
 			echo 'branch test';
 
+			echo 'title';
+
 	}
 
 	public function get()
