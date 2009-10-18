@@ -18,6 +18,8 @@ class Test_Controller extends Controller {
 			echo 'session set test';
 
 			echo 'clone test';
+
+			echo 'title master'
 	}
 
 	public function get()
