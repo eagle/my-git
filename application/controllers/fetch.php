@@ -17,11 +17,8 @@ class Test_Controller extends Controller {
 			$this->session->set('session_test','test');
 			echo 'session set test';
 
-			echo 'clone test';
+			echo 'fetch test';
 
-			echo 'title master bob'
-
-			echo 'stash test two';
 	}
 
 	public function get()
